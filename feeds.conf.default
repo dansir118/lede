@@ -1,5 +1,5 @@
-src-git packages https://github.com/dansir118/lean-packages.git;develop
-src-git luci https://github.com/dansir118/lean-luci.git;develop
+src-git packages https://github.com/dansir118/lean-packages.git;master
+src-git luci https://github.com/dansir118/lean-luci.git;master
 src-git routing https://git.openwrt.org/feed/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git video https://github.com/openwrt/video.git
